@@ -1,7 +1,7 @@
 import pyperclip
 
 def main():
-    myMessage = 'Common sense is not so common.'
+    myMessage = 'This is a change to my GitHub project.'
     myKey = 13
 
     ciphertext = encryptMessage(myKey, myMessage)
