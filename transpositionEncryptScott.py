@@ -1,7 +1,7 @@
 import pyperclip
 
 def main():
-    myMessage = 'Show me the baby.'
+    myMessage = 'Show me the baby. Never mind the Beskar.'
     myKey = 13
 
     ciphertext = encryptMessage(myKey, myMessage)
