@@ -11,6 +11,7 @@ def main():
 
     print(plaintext + '|')
     print('Now show me the baby.')
+    print('VSCode is the bomb.')
 
     pyperclip.copy(plaintext)
 
