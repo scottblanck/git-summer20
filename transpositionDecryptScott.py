@@ -10,6 +10,7 @@ def main():
     plaintext = decryptMessage(myKey, myMessage)
 
     print(plaintext + '|')
+    print('Now show me the baby.')
 
     pyperclip.copy(plaintext)
 
